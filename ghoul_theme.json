@@ -1,0 +1,45 @@
+{
+  "name": "I Am A Ghoul",
+  "description": "I am a ghoul",
+  "authors": [
+    {
+      "name": "surge28"
+    }
+  ],
+  "spec": 2,
+  "semanticColors": {
+    "BACKGROUND_PRIMARY": [
+      "#00000040",
+      "#00000040"
+    ],
+    "BACKGROUND_SECONDARY": [
+      "#00000066",
+      "#00000066"
+    ],
+    "BACKGROUND_SECONDARY_ALT": [
+      "#00000066",
+      "#00000066"
+    ],
+    "BACKGROUND_TERTIARY": [
+      "#00000059",
+      "#00000059"
+    ],
+    "BACKGROUND_MOBILE_PRIMARY": [
+      "#00000040",
+      "#00000040"
+    ],
+    "BACKGROUND_MOBILE_SECONDARY": [
+      "#00000066",
+      "#00000066"
+    ],
+    "CHAT_BACKGROUND": [
+      "#00000000",
+      "#00000000"
+    ]
+  },
+  "background": {
+    "url": "https://raw.githubusercontent.com/surge28/arcueid-theme/main/ghoul_wallpaper_9x21.jpg",
+    "blur": 0,
+    "alpha": 1
+  }
+}
