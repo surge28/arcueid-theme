@@ -1,0 +1,20 @@
+{
+  "name": "Arcueid Wallpaper",
+  "description": "Simple Arcueid wallpaper with see-through panels.",
+  "authors": [{ "name": "YOUR_NAME" }],
+  "spec": 2,
+  "semanticColors": {
+    "BACKGROUND_PRIMARY": ["#00000040", "#00000040"],
+    "BACKGROUND_SECONDARY": ["#00000066", "#00000066"],
+    "BACKGROUND_SECONDARY_ALT": ["#00000066", "#00000066"],
+    "BACKGROUND_TERTIARY": ["#00000059", "#00000059"],
+    "BACKGROUND_MOBILE_PRIMARY": ["#00000040", "#00000040"],
+    "BACKGROUND_MOBILE_SECONDARY": ["#00000066", "#00000066"],
+    "CHAT_BACKGROUND": ["#00000000", "#00000000"]
+  },
+  "background": {
+    "url": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/arcueid_wallpaper_9x21.jpg",
+    "blur": 0,
+    "alpha": 1
+  }
+}
